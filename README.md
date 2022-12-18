@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying in **Easwari Engineering College**
 
-- 🤖 I’m currently learning **Web app development & **
+- 🤖 I’m currently learning **Web app development & Machine Learning**
 
 - 👨‍💻 I’m looking for a job **Software Developer**
 
