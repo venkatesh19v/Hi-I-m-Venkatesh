@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatesh19v&label=Profile%20views&color=0e75b6&style=flat" alt="venkatesh19v" /> </p>
 
-- 🔭 I’m currently studying in **Easwari Engineering College**
+- 🤖 I’m currently working in IIT Madaras Research Park as **Project Associate - Research and Development**
 
-- 🤖 I’m currently learning **Web app development & Machine Learning**
-
+- 🔭 I’m recently graduated from **Easwari Engineering College**
+  
 - 👨‍💻 I’m looking for a job **Software Developer**
 
-- 📫 How to reach me **venkateshvenky1982002@gmail.com**
+- 📫 How to reach me **venkatesh@cubexalpha.com**
 
 - 🦄 My Portfolio :) **https://cubexalpha.com/venkatesh/**
 
